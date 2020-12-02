@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378551814150",
+    "firebase_url": "https://myvisit2020.firebaseio.com",
+    "project_id": "myvisit2020",
+    "storage_bucket": "myvisit2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378551814150:android:cb718d1ab774c019d4db87",
+        "android_client_info": {
+          "package_name": "com.myvisit_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378551814150-i9cnnmb9oetd9gsji3svu2p65727cekg.apps.googleusercontent.com",
+          "client_type": 1
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuVMTuB03y7JbPhzT7U_vSH_CoqMAUDPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378551814150-i9cnnmb9oetd9gsji3svu2p65727cekg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

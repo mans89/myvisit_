@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+        android:name="@string/title_home"
+        android:id="@+id/nav_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:name="@string/notification"
+        android:id="@+id/nav_notification"
+        android:title="@string/notification" />
+
+    <!--<item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+        android:name="@string/help"
+        android:id="@+id/nav_help"
+        android:title="@string/help" />
+            </group>
+        </menu>
+    </item> -->
+
+        <item
+            android:name="@string/help"
+            android:id="@+id/nav_help"
+            android:title="@string/help"/>
+
+    </group>
+</menu>
+
+
